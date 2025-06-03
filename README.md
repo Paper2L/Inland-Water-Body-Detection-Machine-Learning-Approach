@@ -165,7 +165,11 @@ Even small efficiency tweaks can make remote sensing projects more environmental
 
 ## References
 *Unsupervised Learning - GEOL0069 Guide Book*. (n.d.). https://cpomucl.github.io/GEOL0069-AI4EO/Chapter1%3AUnsupervised_Learning_Methods.html
+
 AI/Machine Learning Implementation - GEOL0069 Guide Book*. (n.d.). https://cpomucl.github.io/GEOL0069-AI4EO/Chapter_1_AI_Algorithms.html
+
 Chew, C., Shah, R., Zuffada, C., & Hajj, G. (2023). Unsupervised machine learning for GNSS reflectometry inland water body detection. Remote Sensing, *15*(12), Article 3206. https://doi.org/10.3390/rs15123206
+
 Liu, Y., Zhang, H., Wang, X., & Chen, J. (2025). The application of remote sensing technology in inland water quality monitoring and water environment science: Recent progress and perspectives. Remote Sensing, *17*(4), Article 667. https://doi.org/10.3390/rs17040667
+
 Rodríguez-López, L., Alvarez, D., Bustos Usta, D., et al. (2024). Chlorophyll-a detection algorithms at different depths using in situ, meteorological, and remote sensing data in a Chilean lake. Remote Sensing, *16*(4), Article 647. https://doi.org/10.3390/rs16040647
